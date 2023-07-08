@@ -2,25 +2,33 @@ div{
     background-color: #f5f5f5;
     padding: 50px;
     text-align: center;
+    font-family: 'tahoma';
 }
+
 img{
     width: 190px;
-
 }
+
 h2{
     font-size: 24px;
 }
+
 p{
     line-height: 28px;
     width: 930px;
     margin: auto;
 }
+
 a{
     background-color: green;
     font-size: 14px;
     font-weight: bold;
     text-decoration: none;
     color: #ffffff;
-    padding: 2px;
-    border-radius: 08px;
+    padding: 4px;
+    border-radius: 07px;
+}
+
+span{
+    font-weight: bold;
 }

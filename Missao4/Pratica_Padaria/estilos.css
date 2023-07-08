@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+.logo img{
+    width: 100px;
+}
+.logo a{
+    text-decoration: none;
+    color: black;
+}
+.sobre h2{
+    color: orange;
+    
+}

@@ -1,0 +1,58 @@
+body { 
+    margin: 0 auto;
+    font-family: Tahoma;
+}
+div { 
+    padding: 30px 0px;
+    text-align: center;
+}
+p { 
+    margin: 10px auto;
+    text-align: justify;
+    width: 980px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.cabec {
+    background-color:#afddfb;
+}
+.cabec img {
+    text-align: center;
+    width: 150px;
+}
+.cabec p {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.cabec a {
+    text-align: center;
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+img {
+    margin-top: 50px;
+    padding-top: 0;
+}
+span {
+    font-weight: bold;
+}
+.sobre h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+.sobre h2 {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+} 
+.sobre img {
+    width: 450px;
+}
+.sobre span {
+    color: #1d80c1;
+    font-weight: normal;
+}
